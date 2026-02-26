@@ -186,6 +186,12 @@ TRANSLATIONS = {
         "ar": f'{E_WAIT} <b>...جاري إنشاء روابط التطبيقات</b>',
         "id": f'{E_WAIT} <b>Lagi bikin link app...</b>',
     },
+    "no_apps_enabled": {
+        "en": f'{E_PACK} No apps enabled. Go to <b>Settings → Customization → Apps</b> to enable apps.',
+        "ru": f'{E_PACK} Нет включённых приложений. Перейдите в <b>Настройки → Настройка → Приложения</b>.',
+        "ar": f'{E_PACK} لا توجد تطبيقات مفعّلة. انتقل إلى <b>الإعدادات → التخصيص → التطبيقات</b>.',
+        "id": f"{E_PACK} Gak ada app yang aktif. Buka <b>Settings → Kustomisasi → Apps</b> buat aktifin.",
+    },
 
     # ─── Use Key ──────────────────────────────────────────────────────────
     "use_key_title": {
