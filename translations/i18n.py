@@ -704,6 +704,30 @@ TRANSLATIONS = {
         "ar": "التطبيقات",
         "id": "Apps",
     },
+    "btn_force_on": {
+        "en": "Force ✓",
+        "ru": "Форс ✓",
+        "ar": "إجبار ✓",
+        "id": "Force ✓",
+    },
+    "btn_force_off": {
+        "en": "Force ✗",
+        "ru": "Форс ✗",
+        "ar": "إجبار ✗",
+        "id": "Force ✗",
+    },
+    "force_enabled": {
+        "en": "✅ Force Register <b>enabled</b>",
+        "ru": "✅ Принудительная регистрация <b>включена</b>",
+        "ar": "✅ التسجيل الإجباري <b>مفعّل</b>",
+        "id": "✅ Force Register <b>aktif</b>",
+    },
+    "force_disabled": {
+        "en": "❌ Force Register <b>disabled</b>",
+        "ru": "❌ Принудительная регистрация <b>отключена</b>",
+        "ar": "❌ التسجيل الإجباري <b>معطّل</b>",
+        "id": "❌ Force Register <b>nonaktif</b>",
+    },
     "btn_customization": {
         "en": "Customization",
         "ru": "Настройка",
