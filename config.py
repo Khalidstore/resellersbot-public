@@ -4,10 +4,10 @@ from dataclasses import dataclass
 @dataclass
 class Config:
     """Configuration class for the bot"""
-    BOT_TOKEN: str = "bot_token"
+    BOT_TOKEN: str = "8665549897:AAEiLNdLwFCJ17UkxOAcGVutdw2RALtn5jU"
     API_BASE_URL: str = "https://api.bot1.org"
     DATABASE_PATH: str = "database.db"
-    ADMIN_USER_ID: int = 7084874895
+    ADMIN_USER_ID: int = 6175620662
     
     B2 Storage Configuration
     B2_ENDPOINT_URL: str = "https://s3.eu-central-003.backblazeb2.com"
